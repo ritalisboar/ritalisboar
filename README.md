@@ -17,12 +17,17 @@ Sem mais delongas, hoje sou estagiário em uma empresa de ERP em desenvolvimento
 )
 ![JavaScript](https://img.shields.io/badge/javascript-js?style=for-the-badge&logo=javascript&logoColor=E5A5F0&labelColor=FFFFFF&color=E5A5F0
 )
-![React](https://img.shields.io/badge/react-js?style=for-the-badge&logo=react&logoColor=7951C9&labelColor=FFFFFF&color=7951C9
+![Java](https://img.shields.io/badge/javascript-js?style=for-the-badge&logo=java&logoColor=7951C9&labelColor=FFFFFF&color=7951C9
 )
-![Swift](https://img.shields.io/badge/swift-ios?style=for-the-badge&logo=swift&logoColor=E5A5F0&labelColor=FFFFFF&color=E5A5F0
+![Angular](https://img.shields.io/badge/javascript-js?style=for-the-badge&logo=angular&logoColor=E5A5F0&labelColor=FFFFFF&color=E5A5F0
 )
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=7951C9&labelColor=FFFFFF&color=7951C9)](https://git-scm.com/doc) 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=E5A5F0&labelColor=FFFFFF&color=E5A5F0)](https://docs.github.com/)
+![SQL](https://img.shields.io/badge/javascript-js?style=for-the-badge&logo=sql&logoColor=7951C9&labelColor=FFFFFF&color=7951C9
+)
+![React](https://img.shields.io/badge/react-js?style=for-the-badge&logo=react&logoColor=E5A5F0&labelColor=FFFFFF&color=E5A5F0
+)
+![Swift](https://img.shields.io/badge/swift-ios?style=for-the-badge&logo=swift&logoColor=7951C9&labelColor=FFFFFF&color=7951C9
+)
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E5A5F0&labelColor=FFFFFF&color=E5A5F0)](https://git-scm.com/doc) 
 <br>
 
 ### GitHub Stats
@@ -64,12 +69,17 @@ Without further ado, today I am an intern at an ERP company in Full Stack Java-A
 )
 ![JavaScript](https://img.shields.io/badge/javascript-js?style=for-the-badge&logo=javascript&logoColor=E5A5F0&labelColor=FFFFFF&color=E5A5F0
 )
-![React](https://img.shields.io/badge/react-js?style=for-the-badge&logo=react&logoColor=7951C9&labelColor=FFFFFF&color=7951C9
+![Java](https://img.shields.io/badge/javascript-js?style=for-the-badge&logo=java&logoColor=7951C9&labelColor=FFFFFF&color=7951C9
 )
-![Swift](https://img.shields.io/badge/swift-ios?style=for-the-badge&logo=swift&logoColor=E5A5F0&labelColor=FFFFFF&color=E5A5F0
+![Angular](https://img.shields.io/badge/javascript-js?style=for-the-badge&logo=angular&logoColor=E5A5F0&labelColor=FFFFFF&color=E5A5F0
 )
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=7951C9&labelColor=FFFFFF&color=7951C9)](https://git-scm.com/doc) 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=E5A5F0&labelColor=FFFFFF&color=E5A5F0)](https://docs.github.com/)
+![SQL](https://img.shields.io/badge/javascript-js?style=for-the-badge&logo=sql&logoColor=7951C9&labelColor=FFFFFF&color=7951C9
+)
+![React](https://img.shields.io/badge/react-js?style=for-the-badge&logo=react&logoColor=E5A5F0&labelColor=FFFFFF&color=E5A5F0
+)
+![Swift](https://img.shields.io/badge/swift-ios?style=for-the-badge&logo=swift&logoColor=7951C9&labelColor=FFFFFF&color=7951C9
+)
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E5A5F0&labelColor=FFFFFF&color=E5A5F0)](https://git-scm.com/doc) 
 <br>
 
 ### GitHub Stats

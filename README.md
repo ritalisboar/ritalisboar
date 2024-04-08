@@ -17,11 +17,7 @@ Sem mais delongas, hoje sou estagiário em uma empresa de ERP em desenvolvimento
 )
 ![JavaScript](https://img.shields.io/badge/javascript-js?style=for-the-badge&logo=javascript&logoColor=E5A5F0&labelColor=FFFFFF&color=E5A5F0
 )
-![Java](https://img.shields.io/badge/coffeescript?style=for-the-badge&logo=coffeescript&logoColor=7951C9&labelColor=FFFFFF&color=7951C9
-)
-![Angular](https://img.shields.io/badge/angular-js?style=for-the-badge&logo=angular&logoColor=E5A5F0&labelColor=FFFFFF&color=E5A5F0
-)
-![SQL](https://img.shields.io/badge/microsoftsqlserver?style=for-the-badge&logo=microsoftsqlserver&logoColor=7951C9&labelColor=FFFFFF&color=7951C9
+![Angular](https://img.shields.io/badge/angular-js?style=for-the-badge&logo=angular&logoColor=7951C9&labelColor=FFFFFF&color=7951C9
 )
 ![React](https://img.shields.io/badge/react-js?style=for-the-badge&logo=react&logoColor=E5A5F0&labelColor=FFFFFF&color=E5A5F0
 )
@@ -69,11 +65,7 @@ Without further ado, today I am an intern at an ERP company in Full Stack Java-A
 )
 ![JavaScript](https://img.shields.io/badge/javascript-js?style=for-the-badge&logo=javascript&logoColor=E5A5F0&labelColor=FFFFFF&color=E5A5F0
 )
-![Java](https://img.shields.io/badge/coffeescript?style=for-the-badge&logo=coffeescript&logoColor=7951C9&labelColor=FFFFFF&color=7951C9
-)
-![Angular](https://img.shields.io/badge/angular-js?style=for-the-badge&logo=angular&logoColor=E5A5F0&labelColor=FFFFFF&color=E5A5F0
-)
-![SQL](https://img.shields.io/badge/microsoftsqlserver?style=for-the-badge&logo=microsoftsqlserver&logoColor=7951C9&labelColor=FFFFFF&color=7951C9
+![Angular](https://img.shields.io/badge/angular-js?style=for-the-badge&logo=angular&logoColor=7951C9&labelColor=FFFFFF&color=7951C9
 )
 ![React](https://img.shields.io/badge/react-js?style=for-the-badge&logo=react&logoColor=E5A5F0&labelColor=FFFFFF&color=E5A5F0
 )

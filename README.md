@@ -7,7 +7,7 @@ Venho de uma área um pouco distante da tecnologia. Sou licenciada e mestre em N
 
 Minha jornada de estudos começou de forma despretensiosa, em meados de 2021, e hoje estou cursando uma faculdade de Análise e Desenvolvimento de Sistemas. Entretanto tive a oportunidade de participar num bootcamp na trilha iOS e construir uma solução/app de raiz com um grupo multidisciplinar (o nosso projeto ficou no top 3 e tenho muito orgulho dele) e hoje sou voluntário em desenvolvimento FrontEnd com ReactJS em projeto social.
 
-Sem mais delongas, hoje sou estagiário em uma empresa de ERP em desenvolvimento Full Stack Java-Angular, onde venho desenvolvendo de forma bastante profissional. Gosto muito do meu trabalho atual e sou muito grato por tudo que construí com ele, mas tenho convicção que minha maior afinidade e dedicação aos estudos é o desenvolvimento em Swift e React. Mesmo sendo iniciante, tenho uma bagagem profissional de soft skills que me diferenciam e me trazem um grande potencial.
+Sem mais delongas, trabalhei em uma empresa de ERP em desenvolvimento Full Stack Java-Angular (jan.2023/ago.-2024), onde me desenvolvi bastante profissionalnalmente. Hoje trabalho em uma empresa de inovação em energia como desenvolvedora Full Stack Java-Vue.
 <br>
 
 ### Tecnologias
@@ -55,7 +55,7 @@ I come from an area that is a bit far from technology. I have a degree and a mas
 
 My study journey started unpretentious, in mid-2021, and today I'm attending a Systems Analysis and Development college. In the meantime I had the opportunity to participate in a bootcamp on the iOS trail and build a solution/app from scratch with a multidisciplinary group (our project was in the top 3 and I am very proud of it) and today I am a volunteer in FrontEnd development with ReactJS in social project.
 
-Without further ado, today I am an intern at an ERP company in Full Stack Java-Angular development, where I have been developing quite professionally. I really like my current job and I am very grateful for everything I have built with it, but I am convinced that my greatest affinity and dedication to studies is Swift and React development. Even as a beginner, I have a professional baggage of soft skills that set me apart and bring me great potential.
+Without further ado, I worked at an ERP company under Full Stack Java-Angular development (Jan.2023/Aug.-2024), where I developed quite professionally. Today I work in an energy innovation company as a Full Stack Java-Vue developer.
 <br>
 
 ### Technologies

@@ -1,13 +1,13 @@
 # Oi, Eu sou Rita Lisboa 🙋🏻‍♀️ [PT]
 ### Estou muito feliz em te ver aqui 💜
 <br>
-Bom, sou uma mulher de 28 anos do Nordeste brasileiro.
+[Bom, sou uma mulher de 28 anos do Nordeste brasileiro.
 
 Venho de uma área um pouco distante da tecnologia. Sou licenciada e mestre em Nutrição, mas de alguma forma sempre estive próxima da programação, ainda que através de relações pessoais. Em 2021 comecei a trabalhar como Coordenador de Projetos de Segurança Alimentar em uma ONG que desenvolve tecnologias sociais. O projeto envolveu o desenvolvimento de sistemas e aplicações web, onde liderei uma equipe de programadores. Neste sentido, senti necessidade de aprender um pouco sobre programação, para poder comunicar de forma mais eficaz com a minha equipa. Apesar deste ser o meu objetivo inicial, o resultado foi a descoberta de uma nova paixão: programar.
 
 Minha jornada de estudos começou de forma despretensiosa, em meados de 2021, e hoje estou cursando uma faculdade de Análise e Desenvolvimento de Sistemas. Entretanto tive a oportunidade de participar num bootcamp na trilha iOS e construir uma solução/app de raiz com um grupo multidisciplinar (o nosso projeto ficou no top 3 e tenho muito orgulho dele) e hoje sou voluntário em desenvolvimento FrontEnd com ReactJS em projeto social.
 
-Sem mais delongas, trabalhei em uma empresa de ERP em desenvolvimento Full Stack Java-Angular (jan.2023/ago.-2024), onde me desenvolvi bastante profissionalnalmente. Hoje trabalho em uma empresa de inovação em energia como desenvolvedora Full Stack Java-Vue.
+Sem mais delongas, trabalhei em uma empresa de ERP em desenvolvimento Full Stack Java-Angular (jan.2023/ago.-2024), onde me desenvolvi bastante profissionalnalmente. Hoje trabalho em uma empresa de inovação em energia como desenvolvedora Full Stack Java-Vue.](https://github.com/ritalisboar)
 <br>
 
 ### Tecnologias
@@ -51,11 +51,11 @@ Sem mais delongas, trabalhei em uma empresa de ERP em desenvolvimento Full Stack
 <br>
 Well, I'm a 28-year-old woman from the brazilian Northeast.
 
-I come from an area that is a bit far from technology. I have a degree and a master's degree in Nutrition, but somehow I've always been close to programming, albeit through personal relationships. In 2021 I started working as a Food Safety Project Coordinator at an NGO that develops social technologies. The project involved the development of web systems and applications, where I led a team of programmers. In this sense, I felt the need to learn a little about programming, so that I could communicate more effectively with my team. Despite this being my initial goal, the result was the discovery of a new passion: programming.
+Software Developer with a background in **Nutrition**, including a Master’s degree, and a degree in **Systems Analysis and Development**. Since 2023, I have been working professionally in Technology, combining my experience in Healthcare with software development.
 
-My study journey started unpretentious, in mid-2021, and today I'm attending a Systems Analysis and Development college. In the meantime I had the opportunity to participate in a bootcamp on the iOS trail and build a solution/app from scratch with a multidisciplinary group (our project was in the top 3 and I am very proud of it) and today I am a volunteer in FrontEnd development with ReactJS in social project.
+I have experience with **Java, Spring Boot, JavaScript, TypeScript, Vue.js, React, Angular, Swift, PostgreSQL, Oracle, and SQL Server**, as well as AI-powered development tools, including **Claude Code**.
 
-Without further ado, I worked at an ERP company under Full Stack Java-Angular development (Jan.2023/Aug.-2024), where I developed quite professionally. Today I work in an energy innovation company as a Full Stack Java-Vue developer.
+My multidisciplinary background allows me to approach complex problems from different perspectives, particularly at the intersection of **Technology and Healthcare**. I’m driven by continuous learning, problem-solving, and building solutions that create real-world impact.
 <br>
 
 ### Technologies

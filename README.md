@@ -1,8 +1,6 @@
 # Oi, Eu sou Rita Lisboa 🙋🏻‍♀️ [PT]
 ### Estou muito feliz em te ver aqui 💜
 <br>
-[Bom, sou uma mulher de 28 anos do Nordeste brasileiro.
-
 Venho de uma área um pouco distante da tecnologia. Sou licenciada e mestre em Nutrição, mas de alguma forma sempre estive próxima da programação, ainda que através de relações pessoais. Em 2021 comecei a trabalhar como Coordenador de Projetos de Segurança Alimentar em uma ONG que desenvolve tecnologias sociais. O projeto envolveu o desenvolvimento de sistemas e aplicações web, onde liderei uma equipe de programadores. Neste sentido, senti necessidade de aprender um pouco sobre programação, para poder comunicar de forma mais eficaz com a minha equipa. Apesar deste ser o meu objetivo inicial, o resultado foi a descoberta de uma nova paixão: programar.
 
 Minha jornada de estudos começou de forma despretensiosa, em meados de 2021, e hoje estou cursando uma faculdade de Análise e Desenvolvimento de Sistemas. Entretanto tive a oportunidade de participar num bootcamp na trilha iOS e construir uma solução/app de raiz com um grupo multidisciplinar (o nosso projeto ficou no top 3 e tenho muito orgulho dele) e hoje sou voluntário em desenvolvimento FrontEnd com ReactJS em projeto social.
@@ -49,8 +47,6 @@ Sem mais delongas, trabalhei em uma empresa de ERP em desenvolvimento Full Stack
 # Hey, I'm Rita Lisboa 🙋🏻‍♀️ [EN]
 ### I'm so glad to see you here 💜
 <br>
-Well, I'm a 28-year-old woman from the brazilian Northeast.
-
 Software Developer with a background in **Nutrition**, including a Master’s degree, and a degree in **Systems Analysis and Development**. Since 2023, I have been working professionally in Technology, combining my experience in Healthcare with software development.
 
 I have experience with **Java, Spring Boot, JavaScript, TypeScript, Vue.js, React, Angular, Swift, PostgreSQL, Oracle, and SQL Server**, as well as AI-powered development tools, including **Claude Code**.

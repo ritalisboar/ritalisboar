@@ -47,9 +47,9 @@ Minha trajetória multidisciplinar me permite olhar para problemas de diferentes
 # Hey, I'm Rita Lisboa 🙋🏻‍♀️ [EN]
 ### I'm so glad to see you here 💜
 <br>
-Software Developer with a background in **Nutrition**, including a Master’s degree, and a degree in **Systems Analysis and Development**. Since 2023, I have been working professionally in Technology, combining my experience in Healthcare with software development.
+Software Developer with a background in Nutrition, including a Master’s degree, and a degree in Systems Analysis and Development. Since 2023, I have been working professionally in Technology, combining my experience in Healthcare with software development.
 
-I have experience with **Java, Spring Boot, JavaScript, TypeScript, Vue.js, React, Angular, Swift, PostgreSQL, Oracle, and SQL Server**, as well as AI-powered development tools, including **Claude Code**.
+I have experience with **Java, Spring Boot, JavaScript, TypeScript, Vue.js, React, Angular, Swift, PostgreSQL, Oracle, and SQL Server, as well as AI-powered development tools, including Claude Code**.
 
 My multidisciplinary background allows me to approach complex problems from different perspectives, particularly at the intersection of **Technology and Healthcare**. I’m driven by continuous learning, problem-solving, and building solutions that create real-world impact.
 <br>

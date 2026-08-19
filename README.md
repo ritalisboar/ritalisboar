@@ -1,11 +1,11 @@
 # Oi, Eu sou Rita Lisboa 🙋🏻‍♀️ [PT]
 ### Estou muito feliz em te ver aqui 💜
 <br>
-Venho de uma área um pouco distante da tecnologia. Sou licenciada e mestre em Nutrição, mas de alguma forma sempre estive próxima da programação, ainda que através de relações pessoais. Em 2021 comecei a trabalhar como Coordenador de Projetos de Segurança Alimentar em uma ONG que desenvolve tecnologias sociais. O projeto envolveu o desenvolvimento de sistemas e aplicações web, onde liderei uma equipe de programadores. Neste sentido, senti necessidade de aprender um pouco sobre programação, para poder comunicar de forma mais eficaz com a minha equipa. Apesar deste ser o meu objetivo inicial, o resultado foi a descoberta de uma nova paixão: programar.
+Sou desenvolvedora de software, com formação e mestrado em Nutrição e graduação em Análise e Desenvolvimento de Sistemas. Desde 2023, atuo profissionalmente na área de Tecnologia, unindo minha experiência em Saúde à minha atuação em desenvolvimento de sistemas.
 
-Minha jornada de estudos começou de forma despretensiosa, em meados de 2021, e hoje estou cursando uma faculdade de Análise e Desenvolvimento de Sistemas. Entretanto tive a oportunidade de participar num bootcamp na trilha iOS e construir uma solução/app de raiz com um grupo multidisciplinar (o nosso projeto ficou no top 3 e tenho muito orgulho dele) e hoje sou voluntário em desenvolvimento FrontEnd com ReactJS em projeto social.
+Tenho experiência com **Java, Spring Boot, JavaScript, TypeScript, Vue.js, React, Angular, Swift, PostgreSQL, Oracle e SQL Server**, além do uso de ferramentas de **IA para desenvolvimento, incluindo Claude Code**.
 
-Sem mais delongas, trabalhei em uma empresa de ERP em desenvolvimento Full Stack Java-Angular (jan.2023/ago.-2024), onde me desenvolvi bastante profissionalnalmente. Hoje trabalho em uma empresa de inovação em energia como desenvolvedora Full Stack Java-Vue.](https://github.com/ritalisboar)
+Minha trajetória multidisciplinar me permite olhar para problemas de diferentes perspectivas, especialmente na interseção entre **Tecnologia e Saúde**. Sou movida por aprendizado contínuo, resolução de problemas e pela construção de soluções que gerem impacto real.
 <br>
 
 ### Tecnologias
